@@ -1,0 +1,65 @@
+---
+title: "git_00"
+author: "Moises Sales"
+date: "09/04/19"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+# Build a Poem with a sequence of commits to the master branch.
+Our project will be done using several commits to the master branch.
+
+Commit at each point as required by the assignment! Finally you can drag/drop the files into Canvas or you will push this repository to you github account, you can send me the URL.
+
+<!-- Do not modify or change any text in "!--" bracketed areas such as this --- these are instructions to
+you, if you change any of this the git program will notice it and compromise your git merging strategy !-->
+
+## First Verse 
+<!--Put the first five lines of a poem by Lewis Carrol in this section!-->
+’Twas brillig, and the slithy toves  
+      Did gyre and gimble in the wabe:  
+All mimsy were the borogoves,  
+      And the mome raths outgrabe.  
+      “Beware the Jabberwock, my son!  
+
+## Second Verse
+<!--Put the first five lines of a poem by Robert Frost here!-->
+I have been one acquainted with the night.  
+I have walked out in rain—and back in rain.  
+I have outwalked the furthest city light.  
+I have looked down the saddest city lane.  
+I have passed by the watchman on his beat  
+
+## Third Verse
+<!--Put the first two verses of The Walrus and the Carpenter here!-->
+The sun was shining on the sea,  
+Shining with all his might:  
+He did his very best to make  
+The billows smooth and bright--  
+And this was odd, because it was  
+The middle of the night.  
+
+The moon was shining sulkily,  
+Because she thought the sun  
+Had got no business to be there  
+After the day was done--  
+"It's very rude of him," she said,  
+"To come and spoil the fun!  "
+
+## Last Verse
+<!--Put a short poem of your choice 8-20 lines,here!-->
+It was many and many a year ago,  
+   In a kingdom by the sea,  
+That a maiden there lived whom you may know  
+   By the name of Annabel Lee;  
+And this maiden she lived with no other thought  
+   Than to love and be loved by me.  
+   
+I was a child and she was a child,  
+   In this kingdom by the sea,  
+But we loved with a love that was more than love—  
+   I and my Annabel Lee—  
+With a love that the wingèd seraphs of Heaven  
+   Coveted her and me.  
